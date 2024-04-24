@@ -19,6 +19,24 @@ of the online bus ticket system is to provide another way for transnational cust
 their tickets.
 ### UML DIAGRAMS:
 
+#### USE CASE DIAGRAM
+![image](https://github.com/varshasharon/Lab-3-Railway-Reservation/assets/98278161/f1c5bf90-547e-47b9-b59c-4e4b54b24d71)
+
+#### CLASS DIAGRAM
+![image](https://github.com/varshasharon/Lab-3-Railway-Reservation/assets/98278161/75d88f19-fed1-48b6-b4b0-8cf25b05a95f)
+
+#### ACTIVITY DIAGRAM
+![image](https://github.com/varshasharon/Lab-3-Railway-Reservation/assets/98278161/4fad2f15-d834-4fe7-82f9-54725701ef19)
+
+#### SEQUENCE DIAGRAM
+![image](https://github.com/varshasharon/Lab-3-Railway-Reservation/assets/98278161/23f4ba21-e7c5-449f-9522-95113de75993)
+
+#### COMMUNICATION DIAGRAM
+![image](https://github.com/varshasharon/Lab-3-Railway-Reservation/assets/98278161/ff812af8-7ce9-4a11-b2b0-66a2c53d051f)
+
+#### PACKAGE DIAGRAM
+![image](https://github.com/varshasharon/Lab-3-Railway-Reservation/assets/98278161/fef23adf-eb2b-4876-b34f-acdb47bfc309)
+
 
 
 ### RESULT:
